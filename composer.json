@@ -7,7 +7,7 @@
         "zf2",
         "pdf"
     ],
-    "homepage": "http://packages.zendframework.com/",
+    "homepage": "https://packages.zendframework.com/",
     "autoload": {
         "psr-0": {
             "ZendPdf\\": "library/"
@@ -16,7 +16,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "http://packages.zendframework.com/"
+            "url": "https://packages.zendframework.com/"
         }
     ],
     "require": {
