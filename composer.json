@@ -23,5 +23,11 @@
         "php": ">=5.3.3",
         "laminas/laminas-memory": "2.10.*",
         "laminas/laminas-stdlib": "2.7.*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev",
+            "dev-php-7.2": "dev-php-7.2",
+        }
     }
 }
